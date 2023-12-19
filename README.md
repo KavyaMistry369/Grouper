@@ -39,9 +39,15 @@ The ChatPage provides a user-friendly interface to send and receive messages, en
 and engaging conversations.
 
 
-<img src="https://github.com/KavyaMistry369/chat_application/assets/130814792/41dd13ba-fd35-4b49-971b-b11f67f2f654" width="350px">
-<img src="https://github.com/KavyaMistry369/chat_application/assets/130814792/d4ae3d55-9486-4b8e-9905-33920c671451" width="350px">
-<img src="https://github.com/KavyaMistry369/chat_application/assets/130814792/19206ff6-14fe-4016-89ca-614beb65f8e7" width="350px">
-<img src="https://github.com/KavyaMistry369/chat_application/assets/130814792/78cf8964-7b5e-43fe-82f7-d91603456e07" width="350px">
-<img src="https://github.com/KavyaMistry369/chat_application/assets/130814792/09c6a212-8f6f-4f9b-b1f6-e194228a9e61" width="350px">
+
+https://github.com/KavyaMistry369/chat_application-master/assets/130814792/526fd5c4-5a1f-4b95-bf60-d935eab52aac
+
+
+<img src="https://github.com/KavyaMistry369/chat_application-master/assets/130814792/b0994922-45e4-45ae-bf5e-c95f3b111c13" width="350px">
+<img src="https://github.com/KavyaMistry369/chat_application-master/assets/130814792/b0c6e091-5713-4741-9801-9c7aac6d71a5" width="350px">
+<img src="https://github.com/KavyaMistry369/chat_application-master/assets/130814792/2a96ec1e-8518-4821-a245-38142490c7b1" width="350px">
+<img src="https://github.com/KavyaMistry369/chat_application-master/assets/130814792/99456271-f041-4d99-931f-08cf0eb4e9d3" width="350px">
+<img src="https://github.com/KavyaMistry369/chat_application-master/assets/130814792/f5602e3b-baf9-47e8-b0f8-1eb5362ad56a" width="350px">
+<img src="https://github.com/KavyaMistry369/chat_application-master/assets/130814792/2ec1de07-d977-4dea-aae8-786040626636" width="350px">
+
 
